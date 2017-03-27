@@ -1,0 +1,5 @@
+E:\Code\trunk\WebEntity\Entity\bin\Debug\Entity.exe
+E:\Code\trunk\WebEntity\Entity\bin\Debug\Entity.pdb
+E:\Code\trunk\WebEntity\Entity\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Code\trunk\WebEntity\Entity\obj\x86\Debug\Entity.exe
+E:\Code\trunk\WebEntity\Entity\obj\x86\Debug\Entity.pdb
